@@ -1,0 +1,90 @@
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100hv;
+    justify-content: center;
+    background: url(https://media.istockphoto.com/id/1398333114/photo/jet-fighters-flying-over-the-clouds.jpg?s=1024x1024&w=is&k=20&c=9wfm0neHDtUKveZcXw5HzWjq3K-HLKLp6QMMw-6B_qk=); 
+    background-size: cover;
+    }
+    
+    
+    h3{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 15px;
+    text-align: center;
+    
+    }
+    
+    .colock{
+    display: flex;
+    
+    }
+    
+    .colock div{
+    
+    margin: 5px;
+    position: relative;
+    
+    }
+    .colock span{
+    width: 100px;
+    height: 80px;
+    border-radius: 3px;
+    margin-left: 1px;
+    background:gray;
+    opacity: 0.8;
+    color: aliceblue;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    font-size: 50px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6)  ;
+    
+    }
+    
+    .colock .text{
+    height: 30px;
+    font-size: 10px;
+    
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background:  rgb(87, 87, 223);
+    opacity: 0.8;
+    
+    }
+    
+    .colock #AMPM{
+        bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background: rgb(87, 87, 223);
+    
+    
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
